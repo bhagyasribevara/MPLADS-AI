@@ -1,0 +1,9 @@
+# Phase 1: Database Architecture & Synthetic Pipeline Dependencies
+psycopg2-binary>=2.9.9
+sqlalchemy>=2.0.25
+faker>=20.0.0
+pandas>=2.1.0
+numpy>=1.26.0
+sentence-transformers>=2.2.2
+torch>=2.1.0
+python-dotenv>=1.0.0
